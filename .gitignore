@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Environment
+.env
+
+# Dependencies
+/vendor
+/node_modules
+
+# Uploads
+/public/uploads
